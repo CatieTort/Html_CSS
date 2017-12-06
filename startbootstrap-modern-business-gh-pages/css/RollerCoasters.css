@@ -1,0 +1,47 @@
+/*font-family: 'Roboto', sans-serif;*/
+
+/*font-family: 'Bigelow Rules', cursive;*/
+#displayHeader{
+  font-family: 'Bangers', cursive;
+  font-size: 40px;
+  text-align: left;
+}
+
+h1, h2, h3 {
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+}
+
+.nav-link{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 35px;
+
+}
+ .card-title{
+  font-family: 'Bigelow Rules', cursive;
+  color: #ff0000;
+  font-size: 35px;
+ }
+
+ .card-text{
+   font-family: 'Roboto', sans-serif;
+   font-size: 15px;
+ }
+
+.card-body{
+  background-color: #FED9D9;
+}
+
+button{
+  font-family: 'Bangers', cursive;
+  font-size: 20px;
+  background-color: #CB2424;
+  align-self: center;
+}
+a{
+  color:white;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+}
